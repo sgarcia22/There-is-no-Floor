@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+//Did not implement
 public class ChangeSprite : MonoBehaviour {
 
 	public Image[] sprites;
